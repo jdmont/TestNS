@@ -11,7 +11,6 @@ namespace test_api.Controllers
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
-
             return View("~/Views/TestSolutionWeb/index.cshtml");
         }
     }

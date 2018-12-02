@@ -1,0 +1,14 @@
+E:\Documentos\GitHub\TestNS\test_business\bin\Release\log4net.config
+E:\Documentos\GitHub\TestNS\test_business\bin\Release\test_business.dll
+E:\Documentos\GitHub\TestNS\test_business\bin\Release\test_business.pdb
+E:\Documentos\GitHub\TestNS\test_business\bin\Release\test_models.dll
+E:\Documentos\GitHub\TestNS\test_business\bin\Release\test_utils.dll
+E:\Documentos\GitHub\TestNS\test_business\bin\Release\log4net.dll
+E:\Documentos\GitHub\TestNS\test_business\bin\Release\test_models.pdb
+E:\Documentos\GitHub\TestNS\test_business\bin\Release\test_utils.pdb
+E:\Documentos\GitHub\TestNS\test_business\bin\Release\log4net.xml
+E:\Documentos\GitHub\TestNS\test_business\obj\Release\test_business.csprojResolveAssemblyReference.cache
+E:\Documentos\GitHub\TestNS\test_business\obj\Release\test_business.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\TestNS\test_business\obj\Release\test_business.csproj.CopyComplete
+E:\Documentos\GitHub\TestNS\test_business\obj\Release\test_business.dll
+E:\Documentos\GitHub\TestNS\test_business\obj\Release\test_business.pdb

@@ -1,0 +1,6 @@
+E:\Documentos\GitHub\TestNS\test_models\bin\Release\test_models.dll
+E:\Documentos\GitHub\TestNS\test_models\bin\Release\test_models.pdb
+E:\Documentos\GitHub\TestNS\test_models\obj\Release\test_models.csprojResolveAssemblyReference.cache
+E:\Documentos\GitHub\TestNS\test_models\obj\Release\test_models.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\TestNS\test_models\obj\Release\test_models.dll
+E:\Documentos\GitHub\TestNS\test_models\obj\Release\test_models.pdb

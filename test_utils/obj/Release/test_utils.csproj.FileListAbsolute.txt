@@ -1,0 +1,10 @@
+E:\Documentos\GitHub\TestNS\test_utils\bin\Release\log4net.config
+E:\Documentos\GitHub\TestNS\test_utils\bin\Release\test_utils.dll
+E:\Documentos\GitHub\TestNS\test_utils\bin\Release\test_utils.pdb
+E:\Documentos\GitHub\TestNS\test_utils\bin\Release\log4net.dll
+E:\Documentos\GitHub\TestNS\test_utils\bin\Release\log4net.xml
+E:\Documentos\GitHub\TestNS\test_utils\obj\Release\test_utils.csprojResolveAssemblyReference.cache
+E:\Documentos\GitHub\TestNS\test_utils\obj\Release\test_utils.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\TestNS\test_utils\obj\Release\test_utils.csproj.CopyComplete
+E:\Documentos\GitHub\TestNS\test_utils\obj\Release\test_utils.dll
+E:\Documentos\GitHub\TestNS\test_utils\obj\Release\test_utils.pdb

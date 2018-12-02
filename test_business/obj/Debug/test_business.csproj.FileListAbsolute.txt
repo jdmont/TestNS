@@ -25,3 +25,17 @@ E:\Documentos\Prueba NewS 2018\ns_test_api\ns_test_api\test_business\obj\Debug\t
 E:\Documentos\Prueba NewS 2018\ns_test_api\ns_test_api\test_business\obj\Debug\test_business.csproj.CopyComplete
 E:\Documentos\Prueba NewS 2018\ns_test_api\ns_test_api\test_business\obj\Debug\test_business.dll
 E:\Documentos\Prueba NewS 2018\ns_test_api\ns_test_api\test_business\obj\Debug\test_business.pdb
+E:\Documentos\GitHub\TestNS\test_business\bin\Debug\log4net.config
+E:\Documentos\GitHub\TestNS\test_business\bin\Debug\test_business.dll
+E:\Documentos\GitHub\TestNS\test_business\bin\Debug\test_business.pdb
+E:\Documentos\GitHub\TestNS\test_business\bin\Debug\test_models.dll
+E:\Documentos\GitHub\TestNS\test_business\bin\Debug\test_utils.dll
+E:\Documentos\GitHub\TestNS\test_business\bin\Debug\log4net.dll
+E:\Documentos\GitHub\TestNS\test_business\bin\Debug\test_models.pdb
+E:\Documentos\GitHub\TestNS\test_business\bin\Debug\test_utils.pdb
+E:\Documentos\GitHub\TestNS\test_business\bin\Debug\log4net.xml
+E:\Documentos\GitHub\TestNS\test_business\obj\Debug\test_business.csprojResolveAssemblyReference.cache
+E:\Documentos\GitHub\TestNS\test_business\obj\Debug\test_business.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\TestNS\test_business\obj\Debug\test_business.csproj.CopyComplete
+E:\Documentos\GitHub\TestNS\test_business\obj\Debug\test_business.dll
+E:\Documentos\GitHub\TestNS\test_business\obj\Debug\test_business.pdb

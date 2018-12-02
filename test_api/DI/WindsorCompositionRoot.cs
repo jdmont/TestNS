@@ -6,6 +6,10 @@ using System.Web.Http.Dispatcher;
 
 namespace test_api.DI
 {
+    /// <summary>
+    /// Based on: https://www.codeproject.com/Articles/710662/Simplest-Possible-ASP-NET-Web-API-Project-that-Imp
+    /// Implements the DI using Castle Windsor
+    /// </summary>
     public class WindsorCompositionRoot : IHttpControllerActivator
     {
         private readonly IWindsorContainer _container;

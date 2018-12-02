@@ -18,28 +18,16 @@ namespace test_api.Controllers
     public class SearchProcessController : ApiController
     {
         private ISearchProcess _searchProcess;
-
+        /// <summary>
+        /// Class constructor, implements dependency injection for the searchProcess interface
+        /// </summary>
+        /// <param name="searchProcess"></param>
         public SearchProcessController(ISearchProcess searchProcess)
         {
             _searchProcess = searchProcess;
         }
 
-        // GET api/SearchProcess
-        public string Get()
-        {
-            var contentList = new List<string>();
-            contentList.Add("a");
-            contentList.Add("b");
-            contentList.Add("c");
-            var registerList = new List<string>();
-            contentList.Add("abc");
-            contentList.Add("def");
-            contentList.Add("ghi");
-
-            var res = _searchProcess.SearchProcess(contentList, registerList);
-            return JsonConvert.SerializeObject(res);
-        }
-
+        //// GET api/SearchProcess
         [HttpPost]
         public string Post([FromBody]ProcessRequest request)
         {
@@ -49,14 +37,15 @@ namespace test_api.Controllers
                 {
                     throw new ArgumentNullException(nameof(request));
                 }
-                List<string> contentList = SplitTextHelpler.splitStringLines('\n', request.content.Trim());
-                List<string> registerList = SplitTextHelpler.splitStringLines('\n', request.register.Trim());                
+                // Use helper to split the content of the request parameters
+                List<string> contentList = SplitTextHelper.splitStringLines('\n', request.content.Trim());
+                List<string> registerList = SplitTextHelper.splitStringLines('\n', request.register.Trim());
                 var res = ModelState.IsValid ? _searchProcess.SearchProcess(contentList, registerList) : new ResultModel<List<string>>() { Success = false };
                 return JsonConvert.SerializeObject(res);
             }
             catch (Exception ex)
             {
-                return JsonConvert.SerializeObject( new ResultModel<List<string>>() { Success = false, Data = new List<string>() { ex.Message } });
+                return JsonConvert.SerializeObject(new ResultModel<List<string>>() { Success = false, Data = new List<string>() { ex.Message } });
             }
         }
     }
