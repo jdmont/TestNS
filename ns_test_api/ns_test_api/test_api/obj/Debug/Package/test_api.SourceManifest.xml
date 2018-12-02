@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="E:\Documentos\Prueba NewS 2018\ns_test_api\ns_test_api\test_api\obj\Debug\Package\PackageTmp" />
+  <setAcl path="E:\Documentos\Prueba NewS 2018\ns_test_api\ns_test_api\test_api\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="E:\Documentos\Prueba NewS 2018\ns_test_api\ns_test_api\test_api\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

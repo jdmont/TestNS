@@ -1,0 +1,11 @@
+C:\Users\Sebas\Documents\Visual Studio 2017\Projects\ns_test_api\test_models\bin\Debug\test_models.dll
+C:\Users\Sebas\Documents\Visual Studio 2017\Projects\ns_test_api\test_models\bin\Debug\test_models.pdb
+C:\Users\Sebas\Documents\Visual Studio 2017\Projects\ns_test_api\test_models\obj\Debug\test_models.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Documents\Visual Studio 2017\Projects\ns_test_api\test_models\obj\Debug\test_models.dll
+C:\Users\Sebas\Documents\Visual Studio 2017\Projects\ns_test_api\test_models\obj\Debug\test_models.pdb
+E:\Documentos\Prueba NewS 2018\ns_test_api\ns_test_api\test_models\bin\Debug\test_models.dll
+E:\Documentos\Prueba NewS 2018\ns_test_api\ns_test_api\test_models\bin\Debug\test_models.pdb
+E:\Documentos\Prueba NewS 2018\ns_test_api\ns_test_api\test_models\obj\Debug\test_models.csprojResolveAssemblyReference.cache
+E:\Documentos\Prueba NewS 2018\ns_test_api\ns_test_api\test_models\obj\Debug\test_models.csproj.CoreCompileInputs.cache
+E:\Documentos\Prueba NewS 2018\ns_test_api\ns_test_api\test_models\obj\Debug\test_models.dll
+E:\Documentos\Prueba NewS 2018\ns_test_api\ns_test_api\test_models\obj\Debug\test_models.pdb
